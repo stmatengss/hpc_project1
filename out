@@ -1,10 +1,12 @@
-[0] Size:1200x1200x1200, # of Steps: 20, # of procs: 8
-[2] Total time: 2.484114
-[1] Total time: 2.484117
-[0] Total time: 2.484223
-[4] Total time: 2.484136
-[3] Total time: 2.484119
-[6] Total time: 2.484135
-[5] Total time: 2.484091
-[7] Total time: 2.484162
-[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 11, # of procs: 8
+[0] Total time: 7.942856
+[3] Total time: 7.942891
+[2] Total time: 7.942859
+[5] Total time: 7.942819
+[4] Total time: 7.942897
+[0] 0.0520986 0.0520986 0.0866842[7] Total time: 7.942932
+[6] Total time: 7.942864
+[1] Total time: 7.942854
+[0] 
+[0] Total time: 7.942856
+[0] The result is right

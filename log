@@ -18,3 +18,527 @@
 [3] Total time: 6.023108
 [6] Total time: 6.023130
 [0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 20, # of procs: 8
+[2] Total time: 2.484114
+[1] Total time: 2.484117
+[0] Total time: 2.484223
+[4] Total time: 2.484136
+[3] Total time: 2.484119
+[6] Total time: 2.484135
+[5] Total time: 2.484091
+[7] Total time: 2.484162
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[2] Total time: 1.898356
+[3] Total time: 1.898390
+[1] Total time: 1.898370
+[0] Total time: 1.898373
+[5] Total time: 1.898369
+[4] Total time: 1.898352
+[7] Total time: 1.898397
+[6] Total time: 1.898337
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 15, # of procs: 8
+[2] Total time: 2.989764
+[3] Total time: 2.989754
+[5] Total time: 2.989690
+[1] Total time: 2.989719
+[0] Total time: 2.989798
+[4] Total time: 2.989779
+[7] Total time: 2.989776
+[6] Total time: 2.989780
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.834853
+[5] Total time: 0.834881
+[1] Total time: 0.834873
+[7] Total time: 0.834903
+[4] Total time: 0.834901
+[0] Total time: 0.834929
+[6] Total time: 0.834848
+[3] Total time: 0.834861
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[5] Total time: 0.831611
+[2] Total time: 0.831664
+[3] Total time: 0.831654
+[1] Total time: 0.831666
+[0] Total time: 0.831760
+[7] Total time: 0.831717
+[6] Total time: 0.831675
+[4] Total time: 0.831726
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.831313
+[5] Total time: 0.831315
+[3] Total time: 0.831313
+[6] Total time: 0.831295
+[1] Total time: 0.831315
+[4] Total time: 0.831349
+[7] Total time: 0.831360
+[0] Total time: 0.831361
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[4] Total time: 0.819230
+[5] Total time: 0.819224
+[7] Total time: 0.819251
+[3] Total time: 0.819218
+[2] Total time: 0.819242
+[0] Total time: 0.819273
+[6] Total time: 0.819205
+[1] Total time: 0.819224
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[3] Total time: 0.819090
+[2] Total time: 0.819071
+[5] Total time: 0.819134
+[1] Total time: 0.819129
+[0] Total time: 0.819171
+[4] Total time: 0.819114
+[7] Total time: 0.819115
+[6] Total time: 0.819080
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 3, # of procs: 8
+[3] Total time: 0.618350
+[5] Total time: 0.618288
+[2] Total time: 0.618320
+[1] Total time: 0.618314
+[4] Total time: 0.618313
+[6] Total time: 0.618333
+[0] Total time: 0.618376
+[7] Total time: 0.618365
+[0] The result is Wrong
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 3, # of procs: 8
+[3] Total time: 0.707099
+[2] Total time: 0.707131
+[6] Total time: 0.707091
+[4] Total time: 0.707183
+[1] Total time: 0.707126
+[5] Total time: 0.707157
+[0] Total time: 0.707160
+[7] Total time: 0.707159
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 3, # of procs: 8
+[4] Total time: 0.595682
+[2] Total time: 0.595709
+[5] Total time: 0.595685
+[1] Total time: 0.595679
+[3] Total time: 0.595662
+[0] Total time: 0.595712
+[7] Total time: 0.595717
+[6] Total time: 0.595712
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 3, # of procs: 8
+[0] Total time: 0.654975
+[3] Total time: 0.654899
+[2] Total time: 0.654926
+[6] Total time: 0.654928
+[4] Total time: 0.654908
+[7] Total time: 0.654965
+[5] Total time: 0.654910
+[1] Total time: 0.654894
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[6] Total time: 0.762359
+[5] Total time: 0.762261
+[2] Total time: 0.762357
+[3] Total time: 0.762338
+[1] Total time: 0.762286
+[4] Total time: 0.762373
+[7] Total time: 0.762368
+[0] Total time: 0.762469
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] A::0.09383[0] 
+[7] A::0.09383[7] 
+[4] A::[4] 0.09383
+[2] A::0.09383[2] 
+[5] A::[5] 0.09383
+[3] A::[3] 0.09383
+[6] A::[6] 0.09383
+[1] A::[1] 0.09383[1] 
+[5] A:[5] :[5] 0.084831[5] 
+[7] A:[7] :[7] 0.084831[7] 
+[3] A:[3] :[3] 0.084831[3] 
+[4] A:[4] :[4] 0.084831[4] 
+[0] A:[0] :[0] 0.084831[0] 
+[6] A:[6] :[6] 0.084831[6] 
+[2] A:[2] :[2] 0.084831[2] 
+[5] A:[5] :[5] 0.0777319[5] 
+[1] A:[1] :[1] 0.084831[1] 
+[7] A:[7] :[7] 0.0777319[7] 
+[3] A:[3] :[3] 0.0777319[3] 
+[4] A:[4] :[4] 0.0777319[4] 
+[6] A:[6] :[6] 0.0777319[6] 
+[0] A:[0] :[0] 0.0777319[0] 
+[2] A:[2] :[2] 0.0777319[2] 
+[5] A:[5] :[5] 0.0720527[5] 
+[7] A:[7] :[7] 0.0720527[7] 
+[1] A:[1] :[1] 0.0777319[1] 
+[3] A:[3] :[3] 0.0720527[3] 
+[6] A:[6] :[6] 0.0720527[6] 
+[4] A:[4] :[4] 0.0720527[4] 
+[0] A:[0] :[0] 0.0720527[0] 
+[2] A:[2] :[2] 0.0720527[2] 
+[1] A:[1] :[1] 0.0720527[1] 
+[2] Total time: 0.777900
+[3] Total time: 0.777885
+[1] Total time: 0.777869
+[0] Total time: 0.777919
+[4] Total time: 0.777869
+[7] Total time: 0.777944
+[5] Total time: 0.777850
+[6] Total time: 0.777907
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] A::0.09383[0] 
+[0] B::0
+[7] A::[7] 0.09383[7] 
+[7] B::[7] 0
+[2] A::[2] 0.09383
+[2] B::0
+[3] A::[3] 0.09383
+[3] B::0
+[4] A::[4] 0.09383
+[4] B::0
+[1] A::[1] 0.09383
+[1] B::0
+[3] A:[3] :[3] 0.084831[3] 
+[3] B:[3] :[3] 0.09383[3] 
+[6] A::[6] 0.09383
+[6] B::0
+[0] A:[0] :[0] 0.084831[0] 
+[0] B:[0] :[0] 0.09383[0] 
+[2] A:[2] :[2] 0.084831[2] 
+[2] B:[2] :[2] 0.09383[2] 
+[5] A::[5] 0.09383
+[5] B::0
+[7] A:[7] :[7] 0.084831[7] 
+[7] B:[7] :[7] 0.09383[7] 
+[1] A:[1] :[1] 0.084831[1] 
+[1] B:[1] :[1] 0.09383[1] 
+[4] A:[4] :[4] 0.084831[4] 
+[4] B:[4] :[4] 0.09383[4] 
+[6] A:[6] :[6] 0.084831[6] 
+[6] B:[6] :[6] 0.09383[6] 
+[3] A::0.0777319
+[3] B::0.084831
+[0] A:[0] :[0] 0.0777319[0] 
+[0] B:[0] :[0] 0.084831[0] 
+[5] A:[5] :[5] 0.084831[5] 
+[5] B:[5] :[5] 0.09383[5] 
+[7] A:[7] :[7] 0.0777319[7] 
+[7] B:[7] :[7] 0.084831[7] 
+[2] A:[2] :[2] 0.0777319[2] 
+[2] B:[2] :[2] 0.084831[2] 
+[4] A:[4] :[4] 0.0777319[4] 
+[4] B:[4] :[4] 0.084831[4] 
+[6] A:[6] :[6] 0.0777319[6] 
+[6] B:[6] :[6] 0.084831[6] 
+[1] A:[1] :[1] 0.0777319[1] 
+[1] B:[1] :[1] 0.084831[1] 
+[3] A:[3] :[3] 0.0720527[3] 
+[3] B:[3] :[3] 0.0777319[3] 
+[5] A:[5] :[5] 0.0777319[5] 
+[5] B:[5] :[5] 0.084831[5] 
+[7] A:[7] :[7] 0.0720527[7] 
+[7] B:[7] :[7] 0.0777319[7] 
+[0] A:[0] :[0] 0.0720527[0] 
+[0] B:[0] :[0] 0.0777319[0] 
+[2] A:[2] :[2] 0.0720527[2] 
+[2] B:[2] :[2] 0.0777319[2] 
+[4] A:[4] :[4] 0.0720527[4] 
+[4] B:[4] :[4] 0.0777319[4] 
+[6] A:[6] :[6] 0.0720527[6] 
+[6] B:[6] :[6] 0.0777319[6] 
+[1] A:[1] :[1] 0.0720527[1] 
+[1] B:[1] :[1] 0.0777319[1] 
+[5] A:[5] :[5] 0.0720527[5] 
+[5] B:[5] :[5] 0.0777319[5] 
+[0] Total time: 0.839718
+[5] Total time: 0.839661
+[6] Total time: 0.839718
+[2] Total time: 0.839731
+[3] Total time: 0.839732
+[7] Total time: 0.839743
+[4] Total time: 0.839785
+[1] Total time: 0.839692
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] 0.09383[3] 0.09383[5] 0.09383[0] 0.0674485[2]  [7] 0.09383[3]  [4] 0.09383[6] 0.09383 0.09383 0.09382
+[6] Total time: 0.964365
+[5]  [1] 0.09383[0]  [2] 0.09383[7]  [3] 0.0777319[4]  [5] 0.09383[1]  [0] 0.09383[2]  [7] 0.09383[3]  [4] 0.0674485[5]  [1] 0.09383[0]  [2] 0.09382[7]  [3] 0.09382[4]  [5] 0.09382[1]  [0] 0.09382[2] 
+[7] 0.0903415[4] 0.09382[1] 0.09382[0] 
+[2] Total time: 0.964356
+[3] 
+[5] 
+[0] Total time: 0.964397
+[7] 
+[3] Total time: 0.964378
+[5] Total time: 0.964338
+[7] Total time: 0.964415
+[4] 
+[1] 
+[4] Total time: 0.964376
+[1] Total time: 0.964360
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.809799
+[4] Total time: 0.809758
+[0] 0.0674485[6] Total time: 0.809784
+[3] Total time: 0.809762
+[7] Total time: 0.809799
+[5] Total time: 0.809808
+[1] Total time: 0.809810
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 0.809815
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.870440
+[1] Total time: 0.870466
+[4] Total time: 0.870521
+[6] Total time: 0.870514
+[5] Total time: 0.870500
+[7] Total time: 0.870566
+[3] 0.09383 0.0777319 0.09382[0] Total time: 0.870571
+[3] 
+[3] Total time: 0.870544
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[3] Total time: 0.825439
+[5] Total time: 0.825389
+[2] Total time: 0.825498
+[1] Total time: 0.825410
+[4] Total time: 0.825456
+[6] Total time: 0.825477
+[0] Total time: 0.825498
+[7] 0.09383[7]  [7] 0.09383[7]  [7] 0.0903415[7] 
+[7] Total time: 0.825472
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.816750
+[3] Total time: 0.816778
+[5] Total time: 0.816735
+[1] Total time: 0.816766
+[0] Total time: 0.816828
+[6] Total time: 0.816739
+[7] 0.09383[4] Total time: 0.816781
+[7]  [7] 0.09383[7]  [7] 0.0903415[7] 
+[7] Total time: 0.816789
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] Fatal error in PMPI_Wait: Invalid MPI_Request, error stack:
+[0] PMPI_Wait(194): MPI_Wait(request=0x7fffbdeff160, status=0x1) failed
+[0] PMPI_Wait(142): Invalid MPI_Request
+[7] Fatal error in PMPI_Wait: Invalid MPI_Request, error stack:
+[7] PMPI_Wait(194): MPI_Wait(request=0x7ffd6cb30c64, status=0x1) failed
+[7] PMPI_Wait(142): Invalid MPI_Request
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] Fatal error in PMPI_Wait: Invalid MPI_Request, error stack:
+[0] PMPI_Wait(194): MPI_Wait(request=0x7ffd5abc43e0, status=0x1) failed
+[0] PMPI_Wait(142): Invalid MPI_Request
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] Fatal error in PMPI_Wait: Invalid MPI_Request, error stack:
+[0] PMPI_Wait(194): MPI_Wait(request=0x7ffe67f62560, status=0x1) failed
+[0] PMPI_Wait(142): Invalid MPI_Request
+[7] Fatal error in PMPI_Wait: Invalid MPI_Request, error stack:
+[7] PMPI_Wait(194): MPI_Wait(request=0x7ffcc93609e4, status=0x1) failed
+[7] PMPI_Wait(142): Invalid MPI_Request
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.437793
+[0] Total time: 0.437870
+[4] Total time: 0.437887
+[6] Total time: 0.437851
+[1] Total time: 0.438055
+[5] Total time: 0.438066
+[7] Total time: 0.438132
+[3] Total time: 0.438091
+[0] The result is Wrong
+[1] Fatal error in MPI_Finalize: A process has failed, error stack:
+[1] MPI_Finalize(345).........: MPI_Finalize failed
+[1] MPI_Finalize(259).........: 
+[1] MPID_Finalize(152)........: 
+[1] MPIR_Barrier_impl(703)....: Failure during collective
+[1] MPIR_Barrier_impl(696)....: 
+[1] MPIR_Barrier(648).........: 
+[1] I_MPIR_Barrier_intra(755).: Failure during collective
+[1] MPIR_Barrier_intra(518)...: 
+[1] dequeue_and_set_error(917): Communication error with rank 0
+[5] Fatal error in MPI_Finalize: Other MPI error, error stack:
+[5] MPI_Finalize(345)........: MPI_Finalize failed
+[5] MPI_Finalize(259)........: 
+[5] MPID_Finalize(152).......: 
+[5] MPIR_Barrier_impl(703)...: Failure during collective
+[5] MPIR_Barrier_impl(696)...: 
+[5] MPIR_Barrier(648)........: 
+[5] I_MPIR_Barrier_intra(755): Failure during collective
+[5] MPIR_Barrier_intra(529)..: Failure during collective
+[7] Fatal error in MPI_Finalize: Other MPI error, error stack:
+[7] MPI_Finalize(345)........: MPI_Finalize failed
+[7] MPI_Finalize(259)........: 
+[7] MPID_Finalize(152).......: 
+[7] MPIR_Barrier_impl(703)...: Failure during collective
+[7] MPIR_Barrier_impl(696)...: 
+[7] MPIR_Barrier(648)........: 
+[7] I_MPIR_Barrier_intra(755): Failure during collective
+[7] MPIR_Barrier_intra(529)..: Failure during collective
+[3] Fatal error in MPI_Finalize: Other MPI error, error stack:
+[3] MPI_Finalize(345)........: MPI_Finalize failed
+[3] MPI_Finalize(259)........: 
+[3] MPID_Finalize(152).......: 
+[3] MPIR_Barrier_impl(703)...: Failure during collective
+[3] MPIR_Barrier_impl(696)...: 
+[3] MPIR_Barrier(648)........: 
+[3] I_MPIR_Barrier_intra(755): Failure during collective
+[3] MPIR_Barrier_intra(529)..: Failure during collective
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 0.856558
+[3] Total time: 0.856580
+[0] Total time: 0.856654
+[4] Total time: 0.856631
+[5] Total time: 0.856613
+[6] Total time: 0.856622
+[7] Total time: 0.856651
+[1] Total time: 0.856577
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] Total time: 0.901637
+[2] Total time: 0.901588
+[4] Total time: 0.901594
+[3] Total time: 0.901589
+[1] Total time: 0.901551
+[6] Total time: 0.901582
+[5] Total time: 0.901558
+[7] Total time: 0.901630
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[2] Total time: 1.024798
+[1] Total time: 1.024716
+[5] Total time: 1.024734
+[6] Total time: 1.024789
+[4] Total time: 1.024797
+[0] Total time: 1.024794
+[3] Total time: 1.024764
+[7] Total time: 1.024831
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[0] Fatal error in PMPI_Waitall: Invalid MPI_Request, error stack:
+[0] PMPI_Waitall(323): MPI_Waitall(count=2, req_array=0x7ffe4e89b458, status_array=0x1) failed
+[0] PMPI_Waitall(296): The supplied request in array element 0 was invalid (kind=0)
+[7] Fatal error in PMPI_Waitall: Invalid MPI_Request, error stack:
+[7] PMPI_Waitall(323): MPI_Waitall(count=2, req_array=0x7fff7c51b2d0, status_array=0x1) failed
+[7] PMPI_Waitall(296): The supplied request in array element 1 was invalid (kind=0)
+[6] rank = 7, revents = 8, state = 8
+[6] Assertion failed in file ../../src/mpid/ch3/channels/nemesis/netmod/tcp/socksm.c at line 2969: (it_plfd->revents & POLLERR) == 0
+[6] internal ABORT - process 6
+[1] rank = 0, revents = 8, state = 8
+[1] Assertion failed in file ../../src/mpid/ch3/channels/nemesis/netmod/tcp/socksm.c at line 2969: (it_plfd->revents & POLLERR) == 0
+[1] internal ABORT - process 1
+[0] Size:1000x1000x1000, # of Steps: 4, # of procs: 8
+[5] Total time: 0.801868
+[3] Total time: 0.801893
+[2] Total time: 0.801872
+[4] Total time: 0.801881
+[1] Total time: 0.801878
+[6] Total time: 0.801915
+[7] Total time: 0.801932
+[0] Total time: 0.801945
+[0] The result is right
+[0] Size:100x100x100, # of Steps: 10, # of procs: 6
+[0] Total time: 0.020059
+[5] Total time: 0.020003
+[3] Total time: 0.019996
+[4] Total time: 0.020056
+[1] Total time: 0.020006
+[2] Total time: 0.020119
+[0] The result is right[0] 
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[0] Total time: 2.152503
+[4] Total time: 2.152614
+[3] Total time: 2.152578
+[5] Total time: 2.152577
+[2] Total time: 2.152538
+[1] Total time: 2.152633
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[0] Total time: 2.095630
+[5] Total time: 2.095682
+[2] Total time: 2.095719
+[3] Total time: 2.095658
+[4] Total time: 2.095660
+[1] Total time: 2.095720
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[3] Total time: 2.114110
+[4] Total time: 2.114144
+[0] Total time: 2.114088
+[2] Total time: 2.114167
+[5] Total time: 2.114085
+[1] Total time: 2.114172
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[0] Total time: 2.210105
+[4] Total time: 2.210183
+[5] Total time: 2.210229
+[2] Total time: 2.210175
+[3] Total time: 2.210205
+[1] Total time: 2.210246
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[0] Total time: 2.114773
+[3] Total time: 2.114788
+[5] Total time: 2.114808
+[4] Total time: 2.114798
+[2] Total time: 2.114798
+[1] Total time: 2.114855
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[4] Total time: 2.205202
+[3] Total time: 2.205208
+[2] Total time: 2.205191
+[0] Total time: 2.205267
+[5] Total time: 2.205237
+[1] Total time: 2.205297
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[2] Total time: 2.275986
+[4] Total time: 2.275920
+[3] Total time: 2.275960
+[5] Total time: 2.276008
+[0] Total time: 2.276037
+[1] Total time: 2.276068
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.276037
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[2] Total time: 2.311034
+[4] Total time: 2.311030
+[0] Total time: 2.311124
+[3] Total time: 2.311097
+[5] Total time: 2.311098
+[1] Total time: 2.311135
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.311124
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[2] Total time: 2.226977
+[5] Total time: 2.227044
+[0] Total time: 2.227081
+[3] Total time: 2.226971
+[4] Total time: 2.227031
+[1] Total time: 2.227088
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.227081
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 6
+[2] Total time: 7.736370
+[4] Total time: 7.736350
+[5] Total time: 7.736394
+[3] Total time: 7.736412
+[0] Total time: 7.736473
+[1] Total time: 7.736507
+[0] 0.0520986 [0] 0.09383 0.09382[0] 
+[0] Total time: 7.736473
+[0] The result is right
