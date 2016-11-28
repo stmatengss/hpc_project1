@@ -1,0 +1,20 @@
+[0] Size:1200x1200x1200, # of Steps: 20, # of procs: 8
+[0] Total time: 5.616267
+[6] Total time: 5.616220
+[5] Total time: 5.616150
+[4] Total time: 5.616257
+[3] Total time: 5.616219
+[7] Total time: 5.616205
+[2] Total time: 5.616247
+[1] Total time: 5.616186
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 20, # of procs: 8
+[5] Total time: 6.023053
+[2] Total time: 6.023067
+[1] Total time: 6.023092
+[0] Total time: 6.023127
+[4] Total time: 6.023112
+[7] Total time: 6.023149
+[3] Total time: 6.023108
+[6] Total time: 6.023130
+[0] The result is right

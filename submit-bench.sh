@@ -4,9 +4,9 @@
 #SBATCH -N 8 
 #SBATCH -c 24
 #SBATCH -t 00:30:00
-#SBATCH -o out
+#SBATCH -o out-bench 
 #SBATCH -p batch
 unset I_MPI_PMI_LIBRARY
 mpiexec.hydra -bootstrap slurm -l \
   -genv KMP_AFFINITY compact \
- ./stencil-cpp 1200 1200 1200 20 
+ ./stencil-bench 1200 1200 1200 20 

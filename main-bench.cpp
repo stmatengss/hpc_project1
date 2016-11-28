@@ -2,19 +2,34 @@
 #include <stdlib.h>
 #include <mpi.h>
 #include <math.h>
+#include <sys/time.h>
+#include <iostream>
+
+using namespace std;
+
 #define TIME(a,b) (1.0*((b).tv_sec-(a).tv_sec)+0.000001*((b).tv_usec-(a).tv_usec))
 #define IDX(i,j,k) ((i)*ny*nz+(j)*nz+(k))
+ 
+#ifdef __cplusplus
+extern "C" {               // 告诉编译器下列代码要以C链接约定的模式进行链接
+#endif
+
 
 extern int Init(double *data, long long L);
 extern int Check(double *data, long long L);
 
+
+#ifdef __cplusplus
+}
+#endif
 //Can be modified
+int nprocs, myrank;
+
 typedef struct
 {
   int nx, ny, nz;
 } Info;
 
-int nprocs, myrank;
 //Must be modified because only single process is used now
 Info setup(int NX, int NY, int NZ, int P)
 {
@@ -36,65 +51,41 @@ Info setup(int NX, int NY, int NZ, int P)
   return result;
 }
 
+
+//Must be re-written, including all the parameters
 int stencil(double *A, double *B, int nx, int ny, int nz, int steps)
 {
-	int i, j, k, s;
-	int nx_dis = nx / nprocs;
-	int slice_s = ny * nz;
-	int iter_begin = myrank * nx_dis;
-	int iter_end = (myrank + 1) * nx_dis;
-	MPI_Status status;
-	if (myrank == nprocs - 1) {
-		iter_end = nx;
-	} 
-	//int my_rank;
-	//MPI_Comm_rank(MPI_COMM_WORLD, &my_rank);
-	//cout << "The process is " << myrank << endl; 
-	for(s = 0; s < steps; s ++) {
-		if (myrank != 0) {
-			MPI_Send(A + IDX(iter_begin, 0, 0), slice_s, 
-				MPI_DOUBLE, myrank-1, 0, MPI_COMM_WORLD );
-		}
-		if (myrank != nprocs-1) {
-			MPI_Send(A + IDX(iter_end-1, 0, 0), slice_s,
-				MPI_DOUBLE, myrank+1, 0, MPI_COMM_WORLD );
-		}
+  int i, j, k, s;
+  //int my_rank;
+  //MPI_Comm_rank(MPI_COMM_WORLD, &my_rank);
+  //cout << "The process is " << myrank << endl; 
+ for(s = 0; s < steps; s ++) {
 #pragma omp parallel for schedule (dynamic)
-		for(i = iter_begin; i < iter_end; i ++) {
-			for(j = 0; j < ny; j ++) {
-				for(k = 0; k < nz; k ++) {
-					double r = 0.4*A[IDX(i,j,k)];
-					if(k !=  0)   r += 0.1*A[IDX(i,j,k-1)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(k != nz-1) r += 0.1*A[IDX(i,j,k+1)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(j !=  0)   r += 0.1*A[IDX(i,j-1,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(j != ny-1) r += 0.1*A[IDX(i,j+1,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(i !=  0)   r += 0.1*A[IDX(i-1,j,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(i != nx-1) r += 0.1*A[IDX(i+1,j,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					B[IDX(i,j,k)] = r;
-				}
-			}
-		}
-		if (myrank != 0) {
-			MPI_Recv(A + IDX(iter_begin-1, 0, 0), slice_s,
-				MPI_DOUBLE, myrank-1, 1, MPI_COMM_WORLD, &status );
-		}
-		if (myrank != nprocs-1) {
-		MPI_Recv(A + IDX(iter_end, 0, 0), slice_s,
-				MPI_DOUBLE, myrank+1, 1, MPI_COMM_WORLD, &status );	
-		}
-		
-		double *tmp = NULL;
-		tmp = A, A = B, B = tmp;
-	}
-	return 0;
+    for(i = 0; i < nx; i ++) {
+      for(j = 0; j < ny; j ++) {
+        for(k = 0; k < nz; k ++) {
+          double r = 0.4*A[IDX(i,j,k)];
+          if(k !=  0)   r += 0.1*A[IDX(i,j,k-1)];
+          else          r += 0.1*A[IDX(i,j,k)];
+          if(k != nz-1) r += 0.1*A[IDX(i,j,k+1)];
+          else          r += 0.1*A[IDX(i,j,k)];
+          if(j !=  0)   r += 0.1*A[IDX(i,j-1,k)];
+          else          r += 0.1*A[IDX(i,j,k)];
+          if(j != ny-1) r += 0.1*A[IDX(i,j+1,k)];
+          else          r += 0.1*A[IDX(i,j,k)];
+          if(i !=  0)   r += 0.1*A[IDX(i-1,j,k)];
+          else          r += 0.1*A[IDX(i,j,k)];
+          if(i != nx-1) r += 0.1*A[IDX(i+1,j,k)];
+          else          r += 0.1*A[IDX(i,j,k)];
+          B[IDX(i,j,k)] = r;
+        }
+      }
+    }
+    double *tmp = NULL;
+    tmp = A, A = B, B = tmp;
+  }
+  return 0;
 }
-
 
 int main(int argc, char **argv) {
   double *A = NULL, *B = NULL;
