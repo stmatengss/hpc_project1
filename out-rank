@@ -1,0 +1,34 @@
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 1
+[0] Total time: 4.043008
+[0] 0.0520986[0]  [0] 0.0520986[0]  [0] 0.0866842[0] 
+[0] Total time: 4.043008
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 2
+[0] Total time: 7.917527
+[0] 0.0520986 0.0556584 0.09382[1] Total time: 7.917619
+[0] 
+[0] Total time: 7.917527
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 4
+[0] Total time: 8.018260
+[0] 0.0520986 0.09383 0.09382[2] Total time: 8.018340
+[3] Total time: 8.018395
+[1] Total time: 8.018352
+[0] 
+[0] Total time: 8.018260
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[0] Total time: 8.183342
+[4] Total time: 8.183386
+[0] 0.0520986 0.09383 0.09382[7] Total time: 8.183413
+[3] Total time: 8.183446
+[5] Total time: 8.183426
+[2] Total time: 8.183378
+[6] Total time: 8.183407
+[1] Total time: 8.183423
+[0] 
+[0] Total time: 8.183342
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 20, # of procs: 8
+[0] Total time: 14.166942
+[0] The result is right

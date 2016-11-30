@@ -1,12 +1,12 @@
 #!/bin/bash
 #SBATCH -J project1 
-#SBATCH -n 2
-#SBATCH -N 2 
+#SBATCH -n 8 
+#SBATCH -N 8 
 #SBATCH -c 24
 #SBATCH -t 00:30:00
-#SBATCH -o out-2
+#SBATCH -o out-3d
 #SBATCH -p batch
 unset I_MPI_PMI_LIBRARY
 mpiexec.hydra -bootstrap slurm -l \
   -genv KMP_AFFINITY compact \
- ./stencil-cpp 1000 1000 1000 10 
+ ./stencil-3d 1200 1200 1200 10 

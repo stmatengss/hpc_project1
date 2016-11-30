@@ -14,7 +14,7 @@ using namespace std;
 #define FORNJ(n) for(int j=0;j<n;j++) 
 #define FORNNJ(n) for(int j=1;j<n;j++)
 
-//#define TEST_WAIT
+#define TEST_WAIT
 
 #ifdef __cplusplus
 extern "C" {               
@@ -39,6 +39,9 @@ void debug(string title, T a)
 	cout << title << ":" << a <<endl;
 }
 
+int hash_s(int x, int y) {
+	return x * nprocs + y; 
+}
 //Must be modified because only single process is used now
 Info setup(int NX, int NY, int NZ, int P)
 {
@@ -94,80 +97,94 @@ int stencil(double *A, double *B, int nx, int ny, int nz, int steps) {
 	if (myrank == nprocs - 1) {
 		iter_end = nx;
 	} 
+	int nyz = ny * nz;
 	//int my_rank;
 	for (s = 0; s < steps; s ++) {
 	//	debug("round", s);
-		if (myrank != 0) {
-			MPI_Isend(A + IDX(iter_begin, 0, 0), slice_s, 
-				MPI_DOUBLE, myrank-1, 1, MPI_COMM_WORLD, &request[0] );
-		}
-	//	debug("sendA", myrank);
-		if (myrank != nprocs-1) {
-			MPI_Isend(A + IDX(iter_end-1, 0, 0), slice_s,
-				MPI_DOUBLE, myrank+1, 1, MPI_COMM_WORLD, &request[1] );
-		
-		}
-	//	debug("sendB", myrank);
-		if (myrank != 0) {
+
+		if (myrank != 0 && s != 0) {
 #ifndef TEST_WAIT
 			MPI_Recv(A + IDX(iter_begin-1, 0, 0), slice_s,
-				MPI_DOUBLE, myrank-1, 1, MPI_COMM_WORLD, MPI_STATUS_IGNORE );
+				MPI_DOUBLE, myrank-1, hash_s(myrank-1, myrank), MPI_COMM_WORLD, MPI_STATUS_IGNORE );
 #endif
 #ifdef TEST_WAIT		
 			MPI_Irecv(A + IDX(iter_begin-1, 0, 0), slice_s,
-				MPI_DOUBLE, myrank-1, 1, MPI_COMM_WORLD, &request[2] );
+				MPI_DOUBLE, myrank-1, hash_s(myrank-1, myrank), MPI_COMM_WORLD, &request[1] );
 #endif
 		}
-	//	debug("recvA", myrank);
-		if (myrank != nprocs-1) {
+		if (myrank != nprocs-1 && s != 0) {
 #ifndef TEST_WAIT
 			MPI_Recv(A + IDX(iter_end, 0, 0), slice_s,
-				MPI_DOUBLE, myrank+1, 1, MPI_COMM_WORLD, MPI_STATUS_IGNORE );	
+				MPI_DOUBLE, myrank+1, hash_s(myrank+1, myrank), MPI_COMM_WORLD, MPI_STATUS_IGNORE );	
 #endif
 #ifdef TEST_WAIT
 			MPI_Irecv(A + IDX(iter_end, 0, 0), slice_s,
-				MPI_DOUBLE, myrank+1, 1, MPI_COMM_WORLD, &request[3] );	
+				MPI_DOUBLE, myrank+1, hash_s(myrank+1, myrank), MPI_COMM_WORLD, &request[3] );	
 #endif
 		}
+	//	debug("B:", B[IDX(iter_begin, 0, 0)]);
 #ifdef TEST_WAIT
+	//	if ( s == 0) break;
+	if (s != 0)
 		if (myrank == 0) {
 			MPI_Waitall(2, request+2, MPI_STATUS_IGNORE);
 		} else if (myrank == nprocs-1) {
 			MPI_Waitall(2, request, MPI_STATUS_IGNORE);
 		} else {
 			MPI_Waitall(4, request, MPI_STATUS_IGNORE);
-		}
+		}	
 #endif
-	//	debug("recvB", myrank);
-	//	debug("A:", A[IDX(iter_begin, 0, 0)]);
-	//	debug("B:", B[IDX(iter_begin, 0, 0)]);
+
 #pragma omp parallel for schedule (dynamic)
 		for(i = iter_begin; i < iter_end; i ++) {
+			int temp_x = i * nyz;
 			for(j = 0; j < ny; j ++) {
+				int temp_y = j * nz + temp_x;
 				for(k = 0; k < nz; k ++) {
-					double r = 0.4*A[IDX(i,j,k)];
-					if(k !=  0)   r += 0.1*A[IDX(i,j,k-1)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(k != nz-1) r += 0.1*A[IDX(i,j,k+1)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(j !=  0)   r += 0.1*A[IDX(i,j-1,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(j != ny-1) r += 0.1*A[IDX(i,j+1,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(i !=  0)   r += 0.1*A[IDX(i-1,j,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					if(i != nx-1) r += 0.1*A[IDX(i+1,j,k)];
-					else          r += 0.1*A[IDX(i,j,k)];
-					B[IDX(i,j,k)] = r;
+					int base_num = temp_y + k;
+					double r = 0.4*A[base_num];
+					double temp = 0.0;
+					if(k !=  0)   temp += A[base_num - 1];
+					else          temp += A[base_num];
+					if(k != nz-1) temp += A[base_num + 1];
+					else          temp += A[base_num];
+					if(j !=  0)   temp += A[base_num - nz];
+					else          temp += A[base_num];
+					if(j != ny-1) temp += A[base_num + nz];
+					else          temp += A[base_num];
+					if(i !=  0)   temp += A[base_num - nyz];
+					else          temp += A[base_num];
+					if(i != nx-1) temp += A[base_num + nyz];
+					else          temp += A[base_num];
+					B[IDX(i,j,k)] = r + 0.1 * temp;
 				}
 			}
-		}	
-		if (s == steps - 1) {
-			gather(A, nx, ny, nz, nx_dis, slice_s);
+		}
+		
+
+		if (myrank == 0) {
+			debug("A[0,0,0]", A[0]);
+		}
+		if (myrank != 0 && s != steps - 1) {
+			MPI_Isend(A + IDX(iter_begin, 0, 0), slice_s, 
+				MPI_DOUBLE, myrank-1, hash_s(myrank, myrank-1), MPI_COMM_WORLD, &request[0] );
+		}
+		if (myrank != nprocs-1 && s != steps - 1) {
+			MPI_Isend(A + IDX(iter_end-1, 0, 0), slice_s,
+				MPI_DOUBLE, myrank+1, hash_s(myrank, myrank+1), MPI_COMM_WORLD, &request[2] );
+		
+		}
+
+		if (s == 0) {
+		//	gather(A, nx, ny, nz, nx_dis, slice_s);
 		}
 		double *tmp = NULL;
 		tmp = A, A = B, B = tmp;
 	}
+
+	//double *tmp = NULL;
+	//gather(A, nx, ny, nz, nx_dis, slice_s);
+	
 	return 0;
 }
 
@@ -199,9 +216,9 @@ int main(int argc, char **argv) {
 	if(myrank == 0) printf("Total time: %.6lf\n", TIME(t1,t2)); 
 	if(myrank == 0) cout << A[0] << " " << A[size/2] << " " << A[size-1] <<endl;
 	printf("Total time: %.6lf\n", TIME(t1,t2)); 
-	if(STEPS%2) Check(A, size);
-	//Check(B, size);
-	else        Check(A, size);
+	//if(STEPS%2) Check(A, size);
+	Check(A, size);
+	//else        Check(A, size);
 	free(A),free(B);
 	MPI_Finalize();
 }

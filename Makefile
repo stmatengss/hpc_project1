@@ -26,8 +26,8 @@ main-bench.o:main-bench.cpp
 stencil-3d:main-3d.o
 	$(CC) $(CLIBS) main-3d.o wxl.a -o stencil-3d
 
-main-3d.o:main-3d.cpp
-	$(CC) $(CLIBS) -c main-3d.cpp -o main-3d.o
+main-3d.o:main-3d.c
+	$(CC) $(CLIBS) -c main-3d.c -o main-3d.o
 
 bench:
 	make stencil-bench

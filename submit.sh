@@ -9,4 +9,4 @@
 unset I_MPI_PMI_LIBRARY
 mpiexec.hydra -bootstrap slurm -l \
   -genv KMP_AFFINITY compact \
- ./stencil-cpp 1000 1000 1000 11 
+ ./stencil-cpp 120 120 120 10

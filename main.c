@@ -16,7 +16,7 @@ typedef struct
 
 int nprocs, myrank;
 //Must be modified because only single process is used now
-Info setup(int NX, int NY, int NZ, int P)
+Info setup(int NX, int NY, int NZ, int P)  
 {
   Info result;
   int myrank = 0;

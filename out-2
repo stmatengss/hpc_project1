@@ -1,0 +1,6 @@
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 2
+[0] Total time: 3.978996
+[1] Total time: 3.978995
+[0] 0.0520986[0]  [0] 0.0556584[0]  [0] 0.09382[0] 
+[0] Total time: 3.978996
+[0] The result is right

@@ -542,3 +542,882 @@
 [0] 0.0520986 [0] 0.09383 0.09382[0] 
 [0] Total time: 7.736473
 [0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[0] Total time: 4.174327
+[0] 0.0520986[0]  [0] 0.0520986[0]  [0] 0.0866842[0] 
+[0] Total time: 4.174327
+[0] The result is right
+[5] Total time: 8.141742
+[2] Total time: 8.141748
+[4] Total time: 8.141773
+[0] Total time: 8.141738
+[6] Total time: 8.141793
+[1] Total time: 8.141766
+[3] Total time: 8.141779
+[0] 0.0520986 0.09383 0.09382
+[0] Total time: 8.141738
+[7] Total time: 8.141804
+[0] The result is right
+[0] Size:1000x1000x1000, # of Steps: 11, # of procs: 8
+[2] Total time: 1.899236
+[3] Total time: 1.899133
+[1] Total time: 1.899186
+[0] Total time: 1.899244
+[6] Total time: 1.899191
+[5] Total time: 1.899199
+[4] Total time: 1.899215
+[7] Total time: 1.899220
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.899244
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[2] Total time: 1.742275
+[5] Total time: 1.742234
+[3] Total time: 1.742290
+[1] Total time: 1.742261
+[4] Total time: 1.742294
+[6] Total time: 1.742274
+[0] Total time: 1.742318
+[7] Total time: 1.742344
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.742318
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[2] Total time: 1.787940
+[3] Total time: 1.787999
+[1] Total time: 1.787998
+[0] Total time: 1.788042
+[7] Total time: 1.788051
+[5] Total time: 1.788009
+[6] Total time: 1.788014
+[4] Total time: 1.788012
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.788042
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[3] Total time: 1.840584
+[4] Total time: 1.840635
+[2] Total time: 1.840628
+[0] Total time: 1.840654
+[1] Total time: 1.840601
+[6] Total time: 1.840659
+[7] Total time: 1.840623
+[0] 0.0520986[5] Total time: 1.840568
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.840654
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[3] Total time: 1.787785
+[2] Total time: 1.787810
+[5] Total time: 1.787781
+[1] Total time: 1.787792
+[0] Total time: 1.787828
+[7] Total time: 1.787830
+[4] Total time: 1.787793
+[6] Total time: 1.787830
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.787828
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[0] Total time: 7.812597
+[0] 0.0520986[3] Total time: 7.812627
+[5] Total time: 7.812538
+[6] Total time: 7.812603
+[2] Total time: 7.812580
+[7] Total time: 7.812634
+[4] Total time: 7.812639
+[1] Total time: 7.812581
+[0]  0.0515785 0.0866842[0] 
+[0] Total time: 7.812597
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[0] Total time: 7.854072
+[0] 0.0520986 0.09383 0.09382
+[2] Total time: 7.854160
+[4] Total time: 7.854115
+[5] Total time: 7.854122
+[7] Total time: 7.854174
+[3] Total time: 7.854159
+[6] Total time: 7.854191
+[1] Total time: 7.854144
+[0] Total time: 7.854072
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[0] Total time: 7.876399
+[0] 0.0520986 0.09383 0.09382
+[2] Total time: 7.876480
+[3] Total time: 7.876521
+[4] Total time: 7.876494
+[7] Total time: 7.876538
+[5] Total time: 7.876448
+[6] Total time: 7.876507
+[1] Total time: 7.876500
+[0] Total time: 7.876399
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[5] Total time: 1.726158
+[3] Total time: 1.726175
+[1] Total time: 1.726161
+[0] Total time: 1.726302
+[4] Total time: 1.726283
+[2] Total time: 1.726266
+[6] Total time: 1.726273
+[7] Total time: 1.726211
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.726302
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 3035.0 ON cn04 CANCELLED AT 2016-11-29T08:31:55 ***
+slurmstepd: error: *** JOB 3035 ON cn04 CANCELLED AT 2016-11-29T08:31:55 ***
+[0] Size:1000x1000x1000, # of Steps: 10, # of procs: 8
+[2] Total time: 1.957011
+[3] Total time: 1.957019
+[1] Total time: 1.957021
+[0] Total time: 1.957086
+[6] Total time: 1.957008
+[7] Total time: 1.957045
+[5] Total time: 1.957008
+[4] Total time: 1.957034
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.957086
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 11, # of procs: 8
+[3] Total time: 2.047083
+[7] Total time: 2.047108
+[4] Total time: 2.047110
+[0] Total time: 2.047150
+[6] Total time: 2.047092
+[2] Total time: 2.047157
+[5] Total time: 2.047044
+[1] Total time: 2.047131
+[0] 0.0520986[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.047150
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 12, # of procs: 8
+[2] Total time: 2.257630
+[3] Total time: 2.257593
+[1] Total time: 2.257569
+[0] Total time: 2.257661
+[7] Total time: 2.257600
+[6] Total time: 2.257635
+[5] Total time: 2.257532
+[4] Total time: 2.257655
+[0] 0.0494164[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.257661
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 12, # of procs: 8
+[0] Total time: 8.501370
+[2] Total time: 8.501375
+[1] Total time: 8.501434
+[0] 0.0494164 [4] Total time: 8.501373
+[7] Total time: 8.501460
+[6] Total time: 8.501396
+[3] Total time: 8.501447
+[5] Total time: 8.501409
+[0] 0.09383 0.09382
+[0] Total time: 8.501370
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 11, # of procs: 8
+[0] Total time: 8.142485
+[2] Total time: 8.142536
+[4] Total time: 8.142528
+[1] Total time: 8.142533
+[0] 0.0520986 0.0520986 0.0866842
+[5] Total time: 8.142506
+[3] Total time: 8.142537
+[7] Total time: 8.142560
+[6] Total time: 8.142537
+[0] Total time: 8.142485
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1000x1000x1000, # of Steps: 11, # of procs: 8
+[0] Total time: 8.142485
+[2] Total time: 8.142536
+[4] Total time: 8.142528
+[1] Total time: 8.142533
+[0] 0.0520986 0.0520986 0.0866842
+[5] Total time: 8.142506
+[3] Total time: 8.142537
+[7] Total time: 8.142560
+[6] Total time: 8.142537
+[0] Total time: 8.142485
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 20, # of procs: 8
+[0] Total time: 17.174216
+[0] 0.0456762[6] Total time: 17.174105
+[3] Total time: 17.174295
+[1] Total time: 17.174172
+[2] Total time: 17.174172
+[4] Total time: 17.174106
+[7] Total time: 17.174309
+[5] Total time: 17.174166
+[0]  0.09383 0.09382[0] 
+[0] Total time: 17.174216
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[2] slice_x:0
+[2] slice_y:1[5] slice_x:1
+[5] slice_y:[3] slice_x:0
+[3] slice_y:[4] slice_x:1
+[2] 
+[2] slice_z:0
+[1] slice_x:0
+[5] 0
+[5] slice_z:1
+[7] slice_x:1
+[7] slice_y[6] slice_x:1
+[6] slice_y[3] 1
+[3] slice_z:1
+[4] slice_y:0
+[4] slice_z:0
+[0] slice_x:0
+[0] slice_y:0
+[0] slice_z:0
+[1] slice_y:0
+[1] slice_z:1
+[7] :1
+[7] slice_z:1
+[6] :1
+[6] slice_z:0
+[5] Total time: 2.623291
+[6] Total time: 2.623263
+[4] Total time: 2.623284
+[2] Total time: 2.623322
+[1] Total time: 2.623313
+[7] Total time: 2.623356
+[3] Total time: 2.623355
+[0] Total time: 2.623357
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[0] Total time: 14.096986
+[1] Total time: 14.096929
+[5] Total time: 14.096954
+[3] Total time: 14.097029
+[2] Total time: 14.096948
+[4] Total time: 14.096865
+[0] 0.0535244[7] Total time: 14.097046
+[6] Total time: 14.096890
+[0]  0.09383 0.09382[0] 
+[0] Total time: 14.096986
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[2] Total time: 2.759290
+[3] Total time: 2.759390
+[4] Total time: 2.759354
+[6] Total time: 2.759336
+[7] Total time: 2.759449
+[5] Total time: 2.759388
+[0] Total time: 2.759425
+[1] Total time: 2.759385
+[0] 0.0535244[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.759425
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[2] Total time: 2.417910
+[7] Total time: 2.417941
+[5] Total time: 2.417929
+[0] Total time: 2.417901
+[6] Total time: 2.417862
+[4] Total time: 2.417864
+[3] Total time: 2.417977
+[0] 0.0535244[1] Total time: 2.417966
+[0]  0.09383 [0] 0.09382[0] 
+[0] Total time: 2.417901
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[4] Total time: 2.600737
+[5] Total time: 2.600754
+[0] Total time: 2.600817
+[6] Total time: 2.600714
+[1] Total time: 2.600732
+[3] Total time: 2.600839
+[7] Total time: 2.600805
+[0] 0.0535244[2] Total time: 2.600723
+[0]  0.09383 0.09382[0] 
+[0] Total time: 2.600817
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[2] Total time: 2.486211
+[7] Total time: 2.486217
+[1] Total time: 2.486311
+[3] Total time: 2.486264
+[4] Total time: 2.486228
+[6] Total time: 2.486170
+[5] Total time: 2.486286
+[0] Total time: 2.486303
+[0] 0.0535244[0]  0.09383 0.09382[0] 
+[0] Total time: 2.486303
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[0] Total time: 2.594912
+[1] Total time: 2.594896
+[6] Total time: 2.594813
+[7] Total time: 2.594861
+[0] 0.0535244[3] Total time: 2.594912
+[2] Total time: 2.594886
+[4] Total time: 2.594903
+[5] Total time: 2.594888
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 2.594912
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[7] Fatal error in PMPI_Waitall: Invalid MPI_Request, error stack:
+[7] PMPI_Waitall(323): MPI_Waitall(count=2, req_array=0x7ffc80a5d150, status_array=0x1) failed
+[7] PMPI_Waitall(296): The supplied request in array element 1 was invalid (kind=0)
+[6] rank = 7, revents = 8, state = 8
+[6] Assertion failed in file ../../src/mpid/ch3/channels/nemesis/netmod/tcp/socksm.c at line 2969: (it_plfd->revents & POLLERR) == 0
+[6] internal ABORT - process 6
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[0] Total time: 1.702166
+[1] Total time: 1.702246
+[3] Total time: 1.702279
+[6] Total time: 1.702183
+[4] Total time: 1.702171
+[2] Total time: 1.702157
+[0] 0.0535244[7] Total time: 1.702337
+[5] Total time: 1.702253
+[0]  0.09383 [0] 0.09382
+[0] Total time: 1.702166
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[0] Total time: 1.583576
+[0] 0.0535244[2] Total time: 1.583486
+[5] Total time: 1.583569
+[3] Total time: 1.583586
+[7] Total time: 1.583569
+[1] Total time: 1.583585
+[4] Total time: 1.583539
+[6] Total time: 1.583499
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.583576
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[5] Total time: 1.697426
+[1] Total time: 1.697423
+[0] Total time: 1.697445
+[2] Total time: 1.697425
+[6] Total time: 1.697431
+[3] Total time: 1.697430
+[7] Total time: 1.697492
+[4] Total time: 1.697433
+[0] 0.0535244[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.697445
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[3] Total time: 1.656423
+[0] Total time: 1.656398
+[7] Total time: 1.656412
+[5] Total time: 1.656340
+[4] Total time: 1.656383
+[2] Total time: 1.656376
+[1] Total time: 1.656370
+[6] Total time: 1.656358
+[0] 0.0535244[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.656398
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[0] Total time: 1.508380
+[1] Total time: 1.508349
+[3] Total time: 1.508420
+[5] Total time: 1.508353
+[2] Total time: 1.508334
+[4] Total time: 1.508373
+[0] 0.0535244[6] Total time: 1.508346
+[7] Total time: 1.508426
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.508380
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 11, # of procs: 8
+[0] Total time: 1.696109
+[5] Total time: 1.696057
+[1] Total time: 1.696054
+[4] Total time: 1.696102
+[3] Total time: 1.696087
+[7] Total time: 1.696124
+[0] 0.0535244[6] Total time: 1.696075
+[2] Total time: 1.696065
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.696109
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 10, # of procs: 8
+[1] Total time: 1.553858
+[3] Total time: 1.553876
+[5] Total time: 1.553848
+[0] Total time: 1.553894
+[6] Total time: 1.553889
+[7] Total time: 1.553936
+[2] Total time: 1.553853
+[4] Total time: 1.553890
+[0] 0.0535244[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 1.553894
+[0] The result is right
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 15.477887
+[4] Total time: 15.477733
+[5] Total time: 15.477849
+[0] 0.0441339[3] Total time: 15.477903
+[7] Total time: 15.477891
+[2] Total time: 15.477830
+[6] Total time: 15.477712
+[1] Total time: 15.477851
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.477887
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 4
+[1] Total time: 23.854704
+[0] Total time: 23.854820
+[3] Total time: 23.854820
+[0] 0.0441339[2] Total time: 23.854786
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 23.854820
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 4
+[1] Total time: 23.854704
+[0] Total time: 23.854820
+[3] Total time: 23.854820
+[0] 0.0441339[2] Total time: 23.854786
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 23.854820
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 4
+[1] Total time: 23.854704
+[0] Total time: 23.854820
+[3] Total time: 23.854820
+[0] 0.0441339[2] Total time: 23.854786
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 23.854820
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 4
+[1] Total time: 23.854704
+[0] Total time: 23.854820
+[3] Total time: 23.854820
+[0] 0.0441339[2] Total time: 23.854786
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 23.854820
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 4
+[1] Total time: 23.854704
+[0] Total time: 23.854820
+[3] Total time: 23.854820
+[0] 0.0441339[2] Total time: 23.854786
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 23.854820
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 15.367171
+[5] Total time: 15.367066
+[1] Total time: 15.367074
+[0] 0.0441339[4] Total time: 15.367069
+[6] Total time: 15.367016
+[7] Total time: 15.367113
+[2] Total time: 15.367084
+[3] Total time: 15.367122
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.367171
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 15.136346
+[5] Total time: 15.136255
+[1] Total time: 15.136250
+[2] Total time: 15.136288
+[7] Total time: 15.136341
+[6] Total time: 15.136198
+[0] 0.0441339[3] Total time: 15.136325
+[4] Total time: 15.136250
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.136346
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[2] Total time: 16.028116
+[0] Total time: 16.028239
+[6] Total time: 16.028049
+[1] Total time: 16.028258
+[3] Total time: 16.028261
+[4] Total time: 16.028141
+[5] Total time: 16.028250
+[7] Total time: 16.028279
+[0] 0.0441339[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 16.028239
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[3] Total time: 16.233987
+[7] Total time: 16.233958
+[0] Total time: 16.234058
+[1] Total time: 16.233964
+[6] Total time: 16.233894
+[4] Total time: 16.233926
+[2] Total time: 16.233947
+[5] Total time: 16.233945
+[0] 0.0441339[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 16.234058
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[1] rank = 0, revents = 8, state = 8
+[1] Assertion failed in file ../../src/mpid/ch3/channels/nemesis/netmod/tcp/socksm.c at line 2969: (it_plfd->revents & POLLERR) == 0
+[1] internal ABORT - process 1
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 94688 RUNNING AT cn05
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[7] Total time: 14.249973
+[0] Total time: 14.250004
+[6] Total time: 14.249867
+[5] Total time: 14.249956
+[2] Total time: 14.249949
+[4] Total time: 14.249906
+[1] Total time: 14.249953
+[3] Total time: 14.249976
+[0] 0.000300203[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 14.250004
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[5] Total time: 15.144933
+[3] Total time: 15.145013
+[1] Total time: 15.144950
+[0] Total time: 15.145046
+[2] Total time: 15.144989
+[6] Total time: 15.144884
+[4] Total time: 15.144921
+[7] Total time: 15.145021
+[0] 0.0441339[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.145046
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 10.833831
+[4] Total time: 10.833813
+[7] Total time: 10.833862
+[6] Total time: 10.833806
+[3] Total time: 10.833850
+[5] Total time: 10.833815
+[0] 0.0441339[2] Total time: 10.833788
+[1] Total time: 10.833746
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 10.833831
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 10.877582
+[2] Total time: 10.877569
+[3] Total time: 10.877692
+[6] Total time: 10.878483
+[4] Total time: 10.878545
+[1] Total time: 10.877544
+[7] Total time: 10.877715
+[5] Total time: 10.877607
+[0] 0.0441339[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 10.877582
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 10.752445
+[2] Total time: 10.752418
+[0] 0.0441339[3] Total time: 10.752521
+[7] Total time: 10.752537
+[5] Total time: 10.752469
+[6] Total time: 10.752388
+[1] Total time: 10.752437
+[4] Total time: 10.752363
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 10.752445
+[0] The result is Wrong
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[5] Total time: 15.586350
+[7] Total time: 15.586423
+[2] Total time: 15.586346
+[1] Total time: 15.586379
+[0] Total time: 15.586434
+[6] Total time: 15.586251
+[0] 0.0441339[4] Total time: 15.586350
+[3] Total time: 15.586464
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.586434
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[7] Total time: 15.424233
+[0] Total time: 15.424281
+[3] Total time: 15.424306
+[5] Total time: 15.424238
+[2] Total time: 15.424191
+[1] Total time: 15.424223
+[4] Total time: 15.424211
+[6] Total time: 15.424169
+[0] 0.0441339[0]  0.09383 0.09382[0] 
+[0] Total time: 15.424281
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 15.271079
+[3] Total time: 15.271052
+[1] Total time: 15.270998
+[5] Total time: 15.271010
+[7] Total time: 15.271036
+[0] 0.0441339[6] Total time: 15.270961
+[2] Total time: 15.271040
+[4] Total time: 15.270968
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.271079
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[7] Total time: 15.825589
+[0] Total time: 15.825643
+[4] Total time: 15.825539
+[6] Total time: 15.825522
+[2] Total time: 15.825596
+[3] Total time: 15.825574
+[5] Total time: 15.825617
+[0] 0.0441339[1] Total time: 15.825571
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 15.825643
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] A[0,0,0][0] :[0] 0.09383[0] 
+[0] A[0,0,0][0] :[0] 0.085031[0] 
+[0] A[0,0,0][0] :[0] 0.0781119[0] 
+[0] A[0,0,0][0] :[0] 0.0725967[0] 
+[0] A[0,0,0][0] :[0] 0.0681435[0] 
+[0] A[0,0,0][0] :[0] 0.0645039[0] 
+[0] A[0,0,0][0] :[0] 0.0614956[0] 
+[0] A[0,0,0][0] :[0] 0.0589835[0] 
+[0] A[0,0,0][0] :[0] 0.0568659[0] 
+[0] A[0,0,0][0] :[0] 0.0550659[0] 
+[0] A[0,0,0][0] :[0] 0.0535244[0] 
+[0] A[0,0,0][0] :[0] 0.0521953[0] 
+[0] A[0,0,0][0] :[0] 0.0510428[0] 
+[0] A[0,0,0][0] :[0] 0.0500382[0] 
+[0] A[0,0,0][0] :[0] 0.0491588[0] 
+[0] A[0,0,0][0] :[0] 0.0483861[0] 
+[0] A[0,0,0][0] :[0] 0.0477049[0] 
+[0] A[0,0,0][0] :[0] 0.0471028[0] 
+[0] A[0,0,0][0] :[0] 0.0465695[0] 
+[0] A[0,0,0][0] :[0] 0.0460964[0] 
+[0] A[0,0,0][0] :[0] 0.0456762[0] 
+[0] A[0,0,0][0] :[0] 0.0453027[0] 
+[0] A[0,0,0][0] :[0] 0.0449705[0] 
+[0] A[0,0,0][0] :[0] 0.044675[0] 
+[0] A[0,0,0][0] :[0] 0.0444124[0] 
+[0] A[0,0,0][0] :[0] 0.0441792[0] 
+[0] A[0,0,0][0] :[0] 0.0439723[0] 
+[0] A[0,0,0][0] :[0] 0.0437891[0] 
+[0] A[0,0,0][0] :[0] 0.0436273[0] 
+[0] A[0,0,0][0] :[0] 0.0434846[0] 
+[0] A[0,0,0][0] :[0] 0.0433594[0] 
+[0] A[0,0,0][0] :[0] 0.0432498[0] 
+[0] A[0,0,0][0] :[0] 0.0431545[0] 
+[0] A[0,0,0][0] :[0] 0.0430721[0] 
+[0] A[0,0,0][0] :[0] 0.0430013[0] 
+[0] A[0,0,0][0] :[0] 0.0429412[0] 
+[0] A[0,0,0][0] :[0] 0.0428906[0] 
+[0] A[0,0,0][0] :[0] 0.0428487[0] 
+[0] A[0,0,0][0] :[0] 0.0428148[0] 
+[0] A[0,0,0][0] :[0] 0.0427879[0] 
+[0] A[0,0,0][0] :[0] 0.0427676[0] 
+[0] A[0,0,0][0] :[0] 0.0427531[0] 
+[0] A[0,0,0][0] :[0] 0.0427439[0] 
+[0] A[0,0,0][0] :[0] 0.0427394[0] 
+[0] A[0,0,0][0] :[0] 0.0427393[0] 
+[0] A[0,0,0][0] :[0] 0.0427431[0] 
+[0] A[0,0,0][0] :[0] 0.0427504[0] 
+[0] A[0,0,0][0] :[0] 0.0427609[0] 
+[0] A[0,0,0][0] :[0] 0.0427741[0] 
+[0] A[0,0,0][0] :[0] 0.0427899[0] 
+[0] A[0,0,0][0] :[0] 0.0428079[0] 
+[0] A[0,0,0][0] :[0] 0.0428279[0] 
+[0] A[0,0,0][0] :[0] 0.0428497[0] 
+[0] A[0,0,0][0] :[0] 0.042873[0] 
+[0] A[0,0,0][0] :[0] 0.0428977[0] 
+[0] A[0,0,0][0] :[0] 0.0429236[0] 
+[0] A[0,0,0][0] :[0] 0.0429505[0] 
+[0] A[0,0,0][0] :[0] 0.0429782[0] 
+[0] A[0,0,0][0] :[0] 0.0430068[0] 
+[0] A[0,0,0][0] :[0] 0.0430359[0] 
+[0] A[0,0,0][0] :[0] 0.0430656[0] 
+[0] A[0,0,0][0] :[0] 0.0430957[0] 
+[0] A[0,0,0][0] :[0] 0.0431261[0] 
+[0] A[0,0,0][0] :[0] 0.0431568[0] 
+[0] A[0,0,0][0] :[0] 0.0431876[0] 
+[0] A[0,0,0][0] :[0] 0.0432185[0] 
+[0] A[0,0,0][0] :[0] 0.0432495[0] 
+[0] A[0,0,0][0] :[0] 0.0432804[0] 
+[0] A[0,0,0][0] :[0] 0.0433113[0] 
+[0] A[0,0,0][0] :[0] 0.0433421[0] 
+[0] A[0,0,0][0] :[0] 0.0433727[0] 
+[0] A[0,0,0][0] :[0] 0.0434031[0] 
+[0] A[0,0,0][0] :[0] 0.0434333[0] 
+[0] A[0,0,0][0] :[0] 0.0434632[0] 
+[0] A[0,0,0][0] :[0] 0.0434928[0] 
+[0] A[0,0,0][0] :[0] 0.0435222[0] 
+[0] A[0,0,0][0] :[0] 0.0435512[0] 
+[0] A[0,0,0][0] :[0] 0.0435799[0] 
+[0] A[0,0,0][0] :[0] 0.0436083[0] 
+[0] A[0,0,0][0] :[0] 0.0436363[0] 
+[0] A[0,0,0][0] :[0] 0.0436639[0] 
+[0] A[0,0,0][0] :[0] 0.0436911[0] 
+[0] A[0,0,0][0] :[0] 0.043718[0] 
+[0] A[0,0,0][0] :[0] 0.0437445[0] 
+[0] A[0,0,0][0] :[0] 0.0437705[0] 
+[0] A[0,0,0][0] :[0] 0.0437962[0] 
+[0] A[0,0,0][0] :[0] 0.0438214[0] 
+[0] A[0,0,0][0] :[0] 0.0438463[0] 
+[0] A[0,0,0][0] :[0] 0.0438708[0] 
+[0] A[0,0,0][0] :[0] 0.0438948[0] 
+[0] A[0,0,0][0] :[0] 0.0439185[0] 
+[0] A[0,0,0][0] :[0] 0.0439417[0] 
+[0] A[0,0,0][0] :[0] 0.0439646[0] 
+[0] A[0,0,0][0] :[0] 0.0439871[0] 
+[0] A[0,0,0][0] :[0] 0.0440092[0] 
+[0] A[0,0,0][0] :[0] 0.0440309[0] 
+[0] A[0,0,0][0] :[0] 0.0440522[0] 
+[0] A[0,0,0][0] :[0] 0.0440732[0] 
+[0] A[0,0,0][0] :[0] 0.0440938[0] 
+[0] A[0,0,0][0] :[0] 0.044114[0] 
+[0] Total time: 14.742158
+[0] 0.0441339[1] Total time: 14.742095
+[2] Total time: 14.742070
+[4] Total time: 14.742053
+[6] Total time: 14.741977
+[7] Total time: 14.742180
+[5] Total time: 14.742055
+[3] Total time: 14.742159
+[0]  [0] 0.09383[0]  [0] 0.09382[0] 
+[0] Total time: 14.742158
+[0] The result is right
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] A[0,0,0][0] :[0] 0.09383[0] 
+[0] A[0,0,0][0] :[0] 0.085031[0] 
+[0] A[0,0,0][0] :[0] 0.0781119[0] 
+[0] A[0,0,0][0] :[0] 0.0725967[0] 
+[0] A[0,0,0][0] :[0] 0.0681435[0] 
+[0] A[0,0,0][0] :[0] 0.0645039[0] 
+[0] A[0,0,0][0] :[0] 0.0614956[0] 
+[0] A[0,0,0][0] :[0] 0.0589835[0] 
+[0] A[0,0,0][0] :[0] 0.0568659[0] 
+[0] A[0,0,0][0] :[0] 0.0550659[0] 
+[0] A[0,0,0][0] :[0] 0.0535244[0] 
+[0] A[0,0,0][0] :[0] 0.0521953[0] 
+[0] A[0,0,0][0] :[0] 0.0510428[0] 
+[0] A[0,0,0][0] :[0] 0.0500382[0] 
+[0] A[0,0,0][0] :[0] 0.0491588[0] 
+[0] A[0,0,0][0] :[0] 0.0483861[0] 
+[0] A[0,0,0][0] :[0] 0.0477049[0] 
+[0] A[0,0,0][0] :[0] 0.0471028[0] 
+[0] A[0,0,0][0] :[0] 0.0465695[0] 
+[0] A[0,0,0][0] :[0] 0.0460964[0] 
+[0] A[0,0,0][0] :[0] 0.0456762[0] 
+[0] A[0,0,0][0] :[0] 0.0453027[0] 
+[0] A[0,0,0][0] :[0] 0.0449705[0] 
+[0] A[0,0,0][0] :[0] 0.044675[0] 
+[0] A[0,0,0][0] :[0] 0.0444124[0] 
+[0] A[0,0,0][0] :[0] 0.0441792[0] 
+[0] A[0,0,0][0] :[0] 0.0439723[0] 
+[0] A[0,0,0][0] :[0] 0.0437891[0] 
+[0] A[0,0,0][0] :[0] 0.0436273[0] 
+[0] A[0,0,0][0] :[0] 0.0434846[0] 
+[0] A[0,0,0][0] :[0] 0.0433594[0] 
+[0] A[0,0,0][0] :[0] 0.0432498[0] 
+[0] A[0,0,0][0] :[0] 0.0431545[0] 
+[0] A[0,0,0][0] :[0] 0.0430721[0] 
+[0] A[0,0,0][0] :[0] 0.0430013[0] 
+[0] A[0,0,0][0] :[0] 0.0429412[0] 
+[0] A[0,0,0][0] :[0] 0.0428906[0] 
+[0] A[0,0,0][0] :[0] 0.0428487[0] 
+[0] A[0,0,0][0] :[0] 0.0428148[0] 
+[0] A[0,0,0][0] :[0] 0.0427879[0] 
+[0] A[0,0,0][0] :[0] 0.0427676[0] 
+[0] A[0,0,0][0] :[0] 0.0427531[0] 
+[0] A[0,0,0][0] :[0] 0.0427439[0] 
+[0] A[0,0,0][0] :[0] 0.0427394[0] 
+[0] A[0,0,0][0] :[0] 0.0427393[0] 
+[0] A[0,0,0][0] :[0] 0.0427431[0] 
+[0] A[0,0,0][0] :[0] 0.0427504[0] 
+[0] A[0,0,0][0] :[0] 0.0427609[0] 
+[0] A[0,0,0][0] :[0] 0.0427741[0] 
+[0] A[0,0,0][0] :[0] 0.0427899[0] 
+[0] A[0,0,0][0] :[0] 0.0428079[0] 
+[0] A[0,0,0][0] :[0] 0.0428279[0] 
+[0] A[0,0,0][0] :[0] 0.0428497[0] 
+[0] A[0,0,0][0] :[0] 0.042873[0] 
+[0] A[0,0,0][0] :[0] 0.0428977[0] 
+[0] A[0,0,0][0] :[0] 0.0429236[0] 
+[0] A[0,0,0][0] :[0] 0.0429505[0] 
+[0] A[0,0,0][0] :[0] 0.0429782[0] 
+[0] A[0,0,0][0] :[0] 0.0430068[0] 
+[0] A[0,0,0][0] :[0] 0.0430359[0] 
+[0] A[0,0,0][0] :[0] 0.0430656[0] 
+[0] A[0,0,0][0] :[0] 0.0430957[0] 
+[0] A[0,0,0][0] :[0] 0.0431261[0] 
+[0] A[0,0,0][0] :[0] 0.0431568[0] 
+[0] A[0,0,0][0] :[0] 0.0431876[0] 
+[0] A[0,0,0][0] :[0] 0.0432185[0] 
+[0] A[0,0,0][0] :[0] 0.0432495[0] 
+[0] A[0,0,0][0] :[0] 0.0432804[0] 
+[0] A[0,0,0][0] :[0] 0.0433113[0] 
+[0] A[0,0,0][0] :[0] 0.0433421[0] 
+[0] A[0,0,0][0] :[0] 0.0433727[0] 
+[0] A[0,0,0][0] :[0] 0.0434031[0] 
+[0] A[0,0,0][0] :[0] 0.0434333[0] 
+[0] A[0,0,0][0] :[0] 0.0434632[0] 
+[0] A[0,0,0][0] :[0] 0.0434928[0] 
+[0] A[0,0,0][0] :[0] 0.0435222[0] 
+[0] A[0,0,0][0] :[0] 0.0435512[0] 
+[0] A[0,0,0][0] :[0] 0.0435799[0] 
+[0] A[0,0,0][0] :[0] 0.0436083[0] 
+[0] A[0,0,0][0] :[0] 0.0436363[0] 
+[0] A[0,0,0][0] :[0] 0.0436639[0] 
+[0] A[0,0,0][0] :[0] 0.0436911[0] 
+[0] A[0,0,0][0] :[0] 0.043718[0] 
+[0] A[0,0,0][0] :[0] 0.0437445[0] 
+[0] A[0,0,0][0] :[0] 0.0437705[0] 
+[0] A[0,0,0][0] :[0] 0.0437962[0] 
+[0] A[0,0,0][0] :[0] 0.0438214[0] 
+[0] A[0,0,0][0] :[0] 0.0438463[0] 
+[0] A[0,0,0][0] :[0] 0.0438708[0] 
+[0] A[0,0,0][0] :[0] 0.0438948[0] 
+[0] A[0,0,0][0] :[0] 0.0439185[0] 
+[0] A[0,0,0][0] :[0] 0.0439417[0] 
+[0] A[0,0,0][0] :[0] 0.0439646[0] 
+[0] A[0,0,0][0] :[0] 0.0439871[0] 
+[0] A[0,0,0][0] :[0] 0.0440092[0] 
+[0] A[0,0,0][0] :[0] 0.0440309[0] 
+[0] A[0,0,0][0] :[0] 0.0440522[0] 
+[0] A[0,0,0][0] :[0] 0.0440732[0] 
+[0] A[0,0,0][0] :[0] 0.0440938[0] 
+[0] A[0,0,0][0] :[0] 0.044114[0] 
+[0] Total time: 15.456252
+[6] Total time: 15.456030
+[4] Total time: 15.456152
+[0] 0.0441339[2] Total time: 15.456133
+[0]  [1] Total time: 15.456199
+[3] Total time: 15.456283
+[7] Total time: 15.456212
+[0] 0.09383[5] Total time: 15.456216
+[0]  [0] 0.09382[0] 
+[0] Total time: 15.456252
+[0] The result is Wrong

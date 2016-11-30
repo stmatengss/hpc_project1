@@ -1,0 +1,758 @@
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 56159 RUNNING AT cn11
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 66242 RUNNING AT cn09
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 70654 RUNNING AT cn07
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+[1] Total time: 0.583776
+[2] Total time: 0.583701
+[6] Total time: 0.583723
+[5] Total time: 0.583779
+[3] Total time: 0.583799
+[0] Total time: 0.583788
+[7] Total time: 0.583829
+[4] Total time: 0.583786
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[0] buffer_s: 160000, from 0 to 1
+[0] buffer_s: 160000, from 0 to 2
+[0] buffer_s: 160000, from 0 to 4
+[6] Total time: 0.589141
+[3] Total time: 0.589213
+[2] Total time: 0.589186
+[5] Total time: 0.589200
+[1] Total time: 0.589172
+[7] Total time: 0.589239
+[0] Total time: 0.589198
+[4] Total time: 0.589154
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[5] Total time: 0.591507
+[6] Total time: 0.591501
+[4] Total time: 0.591484
+[7] Total time: 0.591586
+[3] Total time: 0.591560
+[2] Total time: 0.591483
+[1] Total time: 0.591516
+[0] Total time: 0.591544
+[0] The result is Wrong
+[0] The result is Wrong
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 67593 RUNNING AT cn09
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:800x800x800, # of Steps: 10, # of procs: 8
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+[0] buffer_s: 160000, send from 0 to 1
+[0] buffer_s: 160000, send from 0 to 2
+[0] buffer_s: 160000, send from 0 to 4
+[0] buffer_s: 160000, recv from 0 to 1
+[0] buffer_s: 160000, recv from 0 to 2
+[0] buffer_s: 160000, recv from 0 to 4
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 57649 RUNNING AT cn11
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+[7] Fatal error in PMPI_Barrier: A process has failed, error stack:
+[7] PMPI_Barrier(931).........: MPI_Barrier(MPI_COMM_WORLD) failed
+[7] MPIR_Barrier_impl(703)....: Failure during collective
+[7] MPIR_Barrier_impl(696)....: 
+[7] MPIR_Barrier(648).........: 
+[7] I_MPIR_Barrier_intra(755).: Failure during collective
+[7] MPIR_Barrier_intra(518)...: 
+[7] dequeue_and_set_error(917): Communication error with rank 3
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:400x400x400, # of Steps: 10, # of procs: 8
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[5] rank = 7, revents = 8, state = 8
+[5] Assertion failed in file ../../src/mpid/ch3/channels/nemesis/netmod/tcp/socksm.c at line 2969: (it_plfd->revents & POLLERR) == 0
+[5] internal ABORT - process 5
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 50150 RUNNING AT cn12
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:400x400x400, # of Steps: 10, # of procs: 8
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[7] rank = 3, revents = 8, state = 8
+[7] Assertion failed in file ../../src/mpid/ch3/channels/nemesis/netmod/tcp/socksm.c at line 2969: (it_plfd->revents & POLLERR) == 0
+[7] internal ABORT - process 7
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 83882 RUNNING AT cn08
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:400x400x400, # of Steps: 10, # of procs: 8
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[7] Total time: 0.119149
+[2] Total time: 0.119063
+[5] Total time: 0.119086
+[6] Total time: 0.119043
+[1] Total time: 0.119057
+[3] Total time: 0.119137
+[4] Total time: 0.119132
+[0] Total time: 0.119135
+[0] The result is Wrong[0] 
+[0] The result is Wrong[0] 
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 67914 RUNNING AT cn09
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:400x400x400, # of Steps: 10, # of procs: 8
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[1] Total time: 0.130519
+[2] Total time: 0.130547
+[5] Total time: 0.130481
+[4] Total time: 0.130565
+[3] Total time: 0.130556
+[0] Total time: 0.130583
+[7] Total time: 0.130589
+[6] Total time: 0.130523
+[0] The result is Wrong[0] 
+[0] The result is Wrong[0] 
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 76768 RUNNING AT cn06
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+srun: First task exited 30s ago
+srun: task 0: running
+srun: tasks 1-7: exited
+srun: Terminating job step 4286.0
+slurmstepd: error: *** STEP 4286.0 ON cn05 CANCELLED AT 2016-12-01T05:43:51 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Timed out waiting for job step to complete
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:400x400x400, # of Steps: 10, # of procs: 8
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[1] Total time: 0.130519
+[2] Total time: 0.130547
+[5] Total time: 0.130481
+[4] Total time: 0.130565
+[3] Total time: 0.130556
+[0] Total time: 0.130583
+[7] Total time: 0.130589
+[6] Total time: 0.130523
+[0] The result is Wrong[0] 
+[0] The result is Wrong[0] 
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 76768 RUNNING AT cn06
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+srun: First task exited 30s ago
+srun: task 0: running
+srun: tasks 1-7: exited
+srun: Terminating job step 4286.0
+slurmstepd: error: *** STEP 4286.0 ON cn05 CANCELLED AT 2016-12-01T05:43:51 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Timed out waiting for job step to complete
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:400x400x400, # of Steps: 10, # of procs: 8
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[0] buffer_s: 40000, send from 0 to 1
+[0] buffer_s: 40000, send from 0 to 2
+[0] buffer_s: 40000, send from 0 to 4
+[0] buffer_s: 40000, recv from 0 to 1
+[0] buffer_s: 40000, recv from 0 to 2
+[0] buffer_s: 40000, recv from 0 to 4
+[1] Total time: 0.130519
+[2] Total time: 0.130547
+[5] Total time: 0.130481
+[4] Total time: 0.130565
+[3] Total time: 0.130556
+[0] Total time: 0.130583
+[7] Total time: 0.130589
+[6] Total time: 0.130523
+[0] The result is Wrong[0] 
+[0] The result is Wrong[0] 
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 76768 RUNNING AT cn06
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+srun: First task exited 30s ago
+srun: task 0: running
+srun: tasks 1-7: exited
+srun: Terminating job step 4286.0
+slurmstepd: error: *** STEP 4286.0 ON cn05 CANCELLED AT 2016-12-01T05:43:51 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: Timed out waiting for job step to complete
+APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
