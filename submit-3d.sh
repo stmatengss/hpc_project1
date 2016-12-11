@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J project1 
+#SBATCH -J project1-3d 
 #SBATCH -n 8 
 #SBATCH -N 8 
 #SBATCH -c 24
@@ -9,4 +9,4 @@
 unset I_MPI_PMI_LIBRARY
 mpiexec.hydra -bootstrap slurm -l \
   -genv KMP_AFFINITY compact \
- ./stencil-3d 1200 1200 1200 10 
+ ./stencil-3d 1200 1200 1200 100

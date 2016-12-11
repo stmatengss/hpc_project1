@@ -1,81 +1,11 @@
-[0] Size:400x400x400, # of Steps: 10, # of procs: 8
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[0] buffer_s: 40000, send from 0 to 1
-[0] buffer_s: 40000, send from 0 to 2
-[0] buffer_s: 40000, send from 0 to 4
-[0] buffer_s: 40000, recv from 0 to 1
-[0] buffer_s: 40000, recv from 0 to 2
-[0] buffer_s: 40000, recv from 0 to 4
-[1] Total time: 0.130519
-[2] Total time: 0.130547
-[5] Total time: 0.130481
-[4] Total time: 0.130565
-[3] Total time: 0.130556
-[0] Total time: 0.130583
-[7] Total time: 0.130589
-[6] Total time: 0.130523
-[0] The result is Wrong[0] 
-[0] The result is Wrong[0] 
-
-===================================================================================
-=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
-=   PID 76768 RUNNING AT cn06
-=   EXIT CODE: 139
-=   CLEANING UP REMAINING PROCESSES
-=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
-===================================================================================
-srun: First task exited 30s ago
-srun: task 0: running
-srun: tasks 1-7: exited
-srun: Terminating job step 4286.0
-slurmstepd: error: *** STEP 4286.0 ON cn05 CANCELLED AT 2016-12-01T05:43:51 ***
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-srun: error: Timed out waiting for job step to complete
-APPLICATION TERMINATED WITH THE EXIT STRING: Segmentation fault (signal 11)
+[0] Size:1200x1200x1200, # of Steps: 100, # of procs: 8
+[0] Total time: 12.557557
+[4] Total time: 12.557584
+[6] Total time: 12.557673
+[2] Total time: 12.557667
+[1] Total time: 12.557670
+[7] Total time: 12.557608
+[5] Total time: 12.557620
+[3] Total time: 12.557650
+[0] The result is right[0] 
+[0] The result is right

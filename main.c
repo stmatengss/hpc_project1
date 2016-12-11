@@ -59,7 +59,7 @@ int stencil(double *A, double *B, int nx, int ny, int nz, int steps)
 			MPI_Send(A + IDX(iter_end-1, 0, 0), slice_s,
 				MPI_DOUBLE, myrank+1, 0, MPI_COMM_WORLD );
 		}
-#pragma omp parallel for schedule (dynamic)
+//#pragma omp parallel for schedule (dynamic)
 		for(i = iter_begin; i < iter_end; i ++) {
 			for(j = 0; j < ny; j ++) {
 				for(k = 0; k < nz; k ++) {
@@ -77,6 +77,7 @@ int stencil(double *A, double *B, int nx, int ny, int nz, int steps)
 					if(i != nx-1) r += 0.1*A[IDX(i+1,j,k)];
 					else          r += 0.1*A[IDX(i,j,k)];
 					B[IDX(i,j,k)] = r;
+					if (i < 9 && j < 9 && k < 9 && i > 6 && j > 6 && k > 6) printf(" %d,%d,%d,%d,%.10lf\n",s,i,j,k,A[IDX(i,j,k)]);
 				}
 			}
 		}
